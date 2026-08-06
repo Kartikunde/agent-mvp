@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Agent Console — Free Autonomous Agent MVP
 
 An autonomous agent: give it a goal in plain English, and it plans, calls
@@ -96,6 +95,4 @@ standalone frontend later.
   isn't hardcoded, the model decides it.
 - If `web_search` isn't configured (no Tavily key), the tip/interest
   calculator example still proves the full multi-step loop works.
-=======
-# agent-mvp
->>>>>>> 2720d040dc9824479aa621cc04e6608ce095ab75
+
