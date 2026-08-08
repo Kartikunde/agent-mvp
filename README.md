@@ -1,4 +1,4 @@
-# Agent Console — Free Autonomous Agent MVP
+# Agent Console - Free Autonomous Agent MVP
 
 An autonomous agent: give it a goal in plain English, and it plans, calls
 tools (web search, calculator, a scratchpad), and reports back — with
