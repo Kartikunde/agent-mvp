@@ -59,10 +59,6 @@ Run it:
 uvicorn app.main:app --reload
 ```
 
-Open **http://localhost:8000** — try one of the built-in example goals.
-
-Interactive API docs (Swagger) are at **http://localhost:8000/docs**.
-
 ## About the `web/` folder
 
 `web/agent-webapp.jsx` is a separate, multi-page version of this agent
